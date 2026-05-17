@@ -1,6 +1,6 @@
 # 🗄️ Banco de Dados Relacional em SQL
 
-Relatório técnico desenvolvido como projeto acadêmico para a disciplina de Engenharia da Computação (Turma 6), abordando a criação e manipulação de um banco de dados relacional com foco em gestão de clientes, municípios, estados e contas a receber.
+Relatório técnico desenvolvido como projeto acadêmico para a disciplina de Linguagem de Banco de Dados, abordando a criação e manipulação de um banco de dados relacional com foco em gestão de clientes, municípios, estados e contas a receber.
 
 ---
 
